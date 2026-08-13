@@ -13,7 +13,7 @@ int main() {
     area = PI * radius * radius;
     circumference = 2 * PI * radius;
 
-    std::cout << "Area of the circle : " << area << std::endl;
-    std::cout << "Circumference of the circle : " << circumference << std::endl;
+    std::cout << "Area of the circle: " << area << std::endl;
+    std::cout << "Circumference of the circle: " << circumference << std::endl;
 
 }
